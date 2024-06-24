@@ -1,0 +1,4 @@
+ipykernel
+ipywidgets
+-r ChatTTS/requirements.txt # ChatTTS
+nemo_text_processing
